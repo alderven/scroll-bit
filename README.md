@@ -2,4 +2,4 @@
 
 ![](https://github.com/alderven/scroll-bit/blob/master/video.gif?raw=true)
 
-See code [here](../blob/master/reflector.py)
+See code [here](../master/reflector.py)
